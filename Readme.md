@@ -2,6 +2,7 @@
 
 This repository contains an HTML file that displays an ASCII values table. ASCII (American Standard Code for Information Interchange) is a character encoding standard used to represent text in computers and other devices that use text. This table provides a quick reference for ASCII values and their corresponding characters.
 
+## Page Link: https://erarbazansari.github.io/ASCII_Values_Table/
 ## Usage
 
 To view the ASCII table, simply open the `index.html` file in any web browser.
